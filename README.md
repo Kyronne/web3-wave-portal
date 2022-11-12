@@ -1,13 +1,11 @@
-# Sample Hardhat Project
+# My Wave Portal       
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+App is deployed on Vercel: https://waveportal-project-webapp.vercel.app/
 
-Try running some of the following tasks:
+Uses Javascript, React, Solidity and HardHat. 
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Creating an app which can be interacted with on the Ethereum blockchain. By sending me a message and waving you'll have the opportunity to win some ETH. 
+
+
+
+
